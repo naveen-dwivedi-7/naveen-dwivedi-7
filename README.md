@@ -13,7 +13,7 @@ Skills: Problem Solving , C++ , DSA, Python ,Java ,IOT , ML
 - ⚡ Fun fact: Life is Like a Math 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/naveen-dwivedi-7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Naveen Dwivedi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dwivedi_naveen_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Naveen Dwivedi)  
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-dwivedi-7)](https://github.com/anuraghazra/github-readme-stats)
 
