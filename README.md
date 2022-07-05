@@ -1,6 +1,6 @@
 ### Hi , i am Naveen Dwivedi here 👋
 #### Student | Programmer | Learner 
-![Student | Programmer | Learner ](https://arturssmirnovs.github.io/know about me/images/banner.png)
+![Student | Programmer | Learner ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am currently persuing B.Tech in Computer Science and Engineering 
 from  Galgotias College of engineering and Technology, Greater Noida.
