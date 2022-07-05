@@ -1,6 +1,4 @@
 ### Hi , i am Naveen here 👋
-
-**naveen-dwivedi-7/naveen-dwivedi-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 A Problem Solver 
 - 🌱 I love problem solving using c++
 - 👯 I’m  currently  learning & working on cutting edge technologies
@@ -10,7 +8,20 @@
 - 😄 
 - ⚡ Fun fact: 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
- 
-  ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)           
+### Hi there 👋, i 'm Naveen Dwivedi
+#### Student | Programmer | Learner 
+![Student | Programmer | Learner ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am currently persuing B.Tech in Computer Science and Engineering 
+from  Galgotias College of engineering and Technology, Greater Noida.
+I love to programming problems and I am learning and Interested in cutting Edge Technologies - ML, IOT and Web Dev.
+
+Skills: Problem Solving , C++ , DSA, Python ,Java ,IOT , ML
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+           
   
