@@ -1,5 +1,4 @@
-### Hi , i am Naveen here 👋
-### Hi there 👋, i 'm Naveen Dwivedi
+### Hi , i am Naveen Dwivedi here 👋
 #### Student | Programmer | Learner 
 ![Student | Programmer | Learner ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
