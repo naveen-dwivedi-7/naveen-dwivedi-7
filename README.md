@@ -12,6 +12,9 @@ Skills: Problem Solving , C++ , DSA, Python ,Java ,IOT , ML
 - 🌱 I’m currently learning New Technologies 
 - ⚡ Fun fact: Life is Like a Math 
 
+My Running Web Application Diabetes Detection Risk Predictor Link-
+
+https://naveen-diabetes-predictor.herokuapp.com/
 
  
 
