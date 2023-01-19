@@ -4,9 +4,9 @@
 
 I am currently persuing B.Tech in Computer Science and Engineering 
 from  Galgotias College of engineering and Technology, Greater Noida.
-I love to do problems solving using programming in platform like codechef , leetcode etc .and I am learning and Interested in cutting Edge Technologies - ML, IOT and Web Dev.
+I love to do problems solving using programming in platform like codechef , leetcode etc .and I am learning and Interested in cutting Edge Technologies - ML, IOT .
 
-Skills: Problem Solving , C++ , DSA, Python ,Java ,IOT , ML
+Skills: Problem Solving , C++ , DSA, Python , ,IOT ,Data Analytics
 
 - 🔭 I’m currently working on Problems solving optimization 
 - 🌱 I’m currently learning New Technologies 
